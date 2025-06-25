@@ -64,3 +64,4 @@ C:\Users\PC\Desktop\AppServiceAzureDotnet9\obj\Debug\net9.0\refint\AppServiceAzu
 C:\Users\PC\Desktop\AppServiceAzureDotnet9\obj\Debug\net9.0\AppServiceAzureDotnet9.pdb
 C:\Users\PC\Desktop\AppServiceAzureDotnet9\obj\Debug\net9.0\AppServiceAzureDotnet9.genruntimeconfig.cache
 C:\Users\PC\Desktop\AppServiceAzureDotnet9\obj\Debug\net9.0\ref\AppServiceAzureDotnet9.dll
+C:\Users\PC\Desktop\AppServiceAzureDotnet9\obj\Debug\net9.0\AppServiceAzureDotnet9.sourcelink.json
